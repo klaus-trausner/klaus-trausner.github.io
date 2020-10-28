@@ -8,3 +8,5 @@ Ich habe Github bis jetzt nur dazu genutz, um Open Source Programme herunter zu 
 * ruhig
 * alt
 * ehrgeizig
+
+> In der Ruhe liegt die Kraft
